@@ -18,6 +18,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.product.dto.Product;
 
+
 @RestController
 @CrossOrigin(origins="*")
 public class ProductController {
